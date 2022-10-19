@@ -33,10 +33,10 @@ Print the string of characters in "Hello World":
 
 ### Things to be learnt from the project.
 
-- How to use GitHub for collaboration projects
-- How to apply variadic functions
-- The complexities of the printf function
-- Finding a good workflow
+- How to use GitHub for collaboration projects.
+- How to apply variadic functions.
+- The complexities of the printf function.
+- Finding a good workflow.
 
 ### Contributors
 
