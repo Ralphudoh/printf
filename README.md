@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a collaboration project between Toluwani Ajibare and David John who are both students in the ALX Africa software engineering program.
+This is a collaboration project between Raphael Udoh and Abdulazeez Kasheem who are both students in the ALX Africa software engineering program.
 This project involves a function named '\_printf'. The \_printf function will imitate the actual 'printf' command located in the <stdio.h> library.
 
 ## Prototype
